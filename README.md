@@ -7,4 +7,4 @@ In this report, I answer the question:
 
 Which countries have had the highest number of positive cases per number of tests?
 
-<a href='https://stephentaul22.github.io/Investigating-COVID-19-Virus-Trends/'>Click Here: Investigating COVID-19 Virus Trends.</a>
+<a href='https://stephentaul22.github.io/Investigating-COVID-19-Virus-Trends/'>Investigating COVID-19 Virus Trends.</a>
