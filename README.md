@@ -7,3 +7,6 @@ COVID-19 is a deadly disease of pneumonia, caused by a novel strain of the SARS 
 In this report, I answer the question:
 
 Which countries have had the highest number of positive cases per number of tests?
+
+
+\*This is a guided project, completed from the Data Analyst in R Career Path on DataQuest.io.
